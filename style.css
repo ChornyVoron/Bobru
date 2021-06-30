@@ -1,0 +1,19 @@
+body{
+		 background-image: url(http://www.capital.ua/uploads/news/2018/11/04/15e7db8813d70dfe9035333629ee6f90457ffcf6.jpg);
+		background-repeat: no-repeat;
+		background-position: center; 
+		background-size: cover; 
+		margin: auto;
+		/*background-repeat: no-repeat; */
+        opacity: 0,4;
+	    }
+       .a{
+       	text-align: center;
+       }
+       p{
+       	text-align: center; 
+       }
+      .b{
+      	text-align: center;
+      	font-size: 40px;
+      }
